@@ -30,7 +30,5 @@ Project Structure:
 ```
 pathkiller/
 ├── pathkiller.py        # Main script of the program
-├── README.md            # Project description
-├── requirements.txt     # List of dependencies
-└── LICENSE              # Project license
+└── requirements.txt     # List of dependencies
 ```
