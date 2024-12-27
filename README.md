@@ -10,7 +10,7 @@ Pathkiller is a directory brute-forcing tool for web servers. It uses wordlists 
 You can clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/kloveyzstd/pathkiller.git
+git clone https://github.com/klovych/pathkiller.git
 cd pathkiller
 ```
 #### **2. To install all dependencies, use `pip` and the `requirements.txt` file:**
