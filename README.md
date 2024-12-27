@@ -37,6 +37,8 @@ You can specify the wordlist, URL, number of threads, and file extensions you wa
 Project Structure:
 ```
 pathkiller/
-├── pathkiller.py        # Main script of the program
-└── requirements.txt     # List of dependencies
+├── pathkiller.py        # Main program script
+├── README.md            # Project description and usage
+├── requirements.txt     # List of dependencies
+└── LICENSE              # License file (MIT License)
 ```
