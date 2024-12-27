@@ -1,5 +1,5 @@
 # Pathkiller 🕵️‍♂️🔍
-№ ONLY FOR EDUCATION
+ONLY FOR EDUCATION
 Pathkiller is a directory brute-forcing tool for web servers. It uses wordlists to guess paths and identify hidden directories and files.
 
 > by @kloveyzstd | Tbilisian Coder 🇬🇪
